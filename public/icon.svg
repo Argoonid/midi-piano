@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Глубокий темный фон -->
+  <rect width="512" height="512" fill="#050508" rx="112" />
+  
+  <!-- Светящийся синий неоновый трек (левая рука) -->
+  <rect x="140" y="80" width="48" height="160" fill="#3b82f6" rx="24" />
+  <rect x="132" y="72" width="64" height="176" fill="#60a5fa" opacity="0.4" rx="32" filter="blur(8px)" />
+  
+  <!-- Светящийся пурпурный неоновый трек (правая рука) -->
+  <rect x="324" y="160" width="48" height="120" fill="#a855f7" rx="24" />
+  <rect x="316" y="152" width="64" height="136" fill="#c084fc" opacity="0.4" rx="32" filter="blur(8px)" />
+  
+  <!-- Золотая линия удара (Hit Line) -->
+  <rect x="72" y="340" width="368" height="8" fill="#f59e0b" rx="4" />
+  <rect x="72" y="340" width="368" height="8" fill="#fef08a" opacity="0.6" filter="blur(6px)" />
+  
+  <!-- Абстракция белых клавиш -->
+  <rect x="100" y="348" width="60" height="84" fill="#f8fafc" />
+  <rect x="164" y="348" width="60" height="84" fill="#f8fafc" />
+  <rect x="228" y="348" width="60" height="84" fill="#f8fafc" />
+  <rect x="292" y="348" width="60" height="84" fill="#f8fafc" />
+  <rect x="356" y="348" width="60" height="84" fill="#f8fafc" />
+  
+  <!-- Черные клавиши (врезаются в белые) -->
+  <rect x="144" y="348" width="36" height="52" fill="#0f172a" rx="4" />
+  <rect x="208" y="348" width="36" height="52" fill="#0f172a" rx="4" />
+  <rect x="336" y="348" width="36" height="52" fill="#0f172a" rx="4" />
+</svg>

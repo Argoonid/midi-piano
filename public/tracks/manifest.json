@@ -1,0 +1,101 @@
+[
+  {
+    "id": "tom-odell-another-love",
+    "title": "Tom Odell – Another love",
+    "artist": "Custom Artist",
+    "audioSrc": "/tracks/tom-odell-another-love/audio.mp3",
+    "midiSrc": "/tracks/tom-odell-another-love/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "another-love",
+    "title": "Another love",
+    "artist": "Tom Odell –",
+    "audioSrc": "/tracks/another-love/audio.mp3",
+    "midiSrc": "/tracks/another-love/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "another-love",
+    "title": "Another love",
+    "artist": "Tom odell",
+    "audioSrc": "/tracks/another-love/audio.mp3",
+    "midiSrc": "/tracks/another-love/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "drunken-sailor-int",
+    "title": "Drunken sailor int",
+    "artist": "sea shanty",
+    "audioSrc": "/tracks/drunken-sailor-int/audio.mp3",
+    "midiSrc": "/tracks/drunken-sailor-int/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "drunken-sailor",
+    "title": "Drunken sailor",
+    "artist": "sea shanty",
+    "audioSrc": "/tracks/drunken-sailor/audio.mp3",
+    "midiSrc": "/tracks/drunken-sailor/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "i-really-want-to-stay-at-your-house",
+    "title": "I Really want to stay at your house",
+    "artist": "cyberpunk",
+    "audioSrc": "/tracks/i-really-want-to-stay-at-your-house/audio.mp3",
+    "midiSrc": "/tracks/i-really-want-to-stay-at-your-house/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "the-game-is-on",
+    "title": "The Game is on",
+    "artist": "BBC SHERLOCK",
+    "audioSrc": "/tracks/the-game-is-on/audio.mp3",
+    "midiSrc": "/tracks/the-game-is-on/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Normal",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "rocket-man",
+    "title": "Rocket Man",
+    "artist": "Elton John",
+    "audioSrc": "/tracks/rocket-man/audio.mp3",
+    "midiSrc": "/tracks/rocket-man/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  },
+  {
+    "id": "under-the-sea-from-walt-disney-s-the-little-meramaid-",
+    "title": "Under the Sea (From Walt Disney's The Little Meramaid )",
+    "artist": "Custom Artist",
+    "audioSrc": "/tracks/under-the-sea-from-walt-disney-s-the-little-meramaid-/audio.mp3",
+    "midiSrc": "/tracks/under-the-sea-from-walt-disney-s-the-little-meramaid-/notes.mid",
+    "bgSrc": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1920&auto=format&fit=crop",
+    "difficulty": "Hard",
+    "bpm": 120,
+    "defaultOffsetMs": 0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "short_name": "PianOSU",
+  "name": "PianOSU! Rhythm Terminal",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050508",
+  "theme_color": "#050508",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
